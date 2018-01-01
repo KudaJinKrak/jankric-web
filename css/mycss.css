@@ -1,0 +1,16 @@
+.card.bg-black{
+	background-color: #000000;
+}
+
+.btn.btn-card{
+	padding: 15px;
+	margin: 15px;
+	background-color: #000000;
+	border-color: #FFFFFF;
+}
+
+.team-section{
+	color: #fff;
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Footer_Together.jpg") no-repeat;
+	background-size: cover;
+}
