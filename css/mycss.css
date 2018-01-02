@@ -8,9 +8,21 @@
 	background-color: #000000;
 	border-color: #FFFFFF;
 }
-.btn-card:hover, .btn-primary:focus {
+
+.btn-card:hover, .btn-card:focus {
 	color: #000000;
 	background-color: #FFFFFF;
+}
+
+.btn-trailer{
+	padding: 15px;
+	margin: 15px;
+	background-color: rgba(0,0,0,0.1);
+	border-color: #FFFFFF;
+}
+
+.btn-trailer:hover, .btn-trailer:focus {
+	background-color: rgba(1,1,1,0.5);
 }
 
 .team-section{
