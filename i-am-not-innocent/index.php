@@ -32,8 +32,10 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
       <div class="container">
-		<a class="js-scroll-trigger" href="#jankric-head">
+		<a class="js-scroll-trigger" href="../">
 			<img src="../img/jrt.png" class="navbar-brand js-scroll-trigger" href="#page-top" alt="Jankric Respawn" style="width:80px;height:40px;">
+		</a>
+		<a class="js-scroll-trigger" href="#jankric-head">
 			I Am Not Innocent
 		</a>
 		<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -42,6 +44,9 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
+		    <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#work">Overview</a>
+            </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="../#work">Project</a>
             </li>
@@ -62,10 +67,13 @@
         <div class="container">
           <div class="row">
             <div class="col-lg-8 mx-auto">
-              <h1 class="brand-heading">I Am Not Innocent</h1>
-              <p class="intro-text">codename : #projectlily</p>
-			  <a href="https://youtu.be/-E_AuvpL-iI" target="_blank" class="btn btn-trailer">WATCH Trailer</a>
-			  <br>
+              <!--h1 class="brand-heading">I Am Not Innocent</h1-->
+              <img src="../img/ProjectLilyThumb1k.png" class="navbar-brand js-scroll-trigger" href="#page-top" alt="Jankric Respawn" style="width: 40%;">
+			  <p class="intro-text">
+				<q>I Am Not Innocent</q> <br>
+				<cite>codename : #projectlily</cite><br>
+				<a href="https://youtu.be/-E_AuvpL-iI" target="_blank" class="btn btn-trailer">WATCH Trailer</a>
+			  </p>
               <a href="#work" class="btn btn-circle js-scroll-trigger">
                 <i class="fa fa-angle-double-down animated"></i>
               </a>
@@ -78,6 +86,9 @@
 	<!-- Content Section -->
 	<section id="content" class="content-section">
 		<div id="work" class="container mx-auto" style="width: 75%;" >
+			
+			<div class="text-center"><iframe width="854" height="480" src="https://www.youtube.com/embed/-E_AuvpL-iI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div><br>
+			
 			<h2 class="text-center">[ Work In Progress ]</h2>
 			<p>I'm not Innocent is a Third person action game that driven by a story . Player will be stepping in the shoes of Lily. Our Main Character.</p>
 			<p>
