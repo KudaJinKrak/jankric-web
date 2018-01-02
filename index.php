@@ -31,8 +31,10 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
       <div class="container">
-		<img src="img/jrt.png" class="navbar-brand js-scroll-trigger" href="#page-top" alt="Jankric Respawn" style="width:80px;height:40px;">
-        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+		<a class="js-scroll-trigger" href="#jankric-head">
+			<img src="img/jrt.png" class="navbar-brand js-scroll-trigger" href="#page-top" alt="Jankric Respawn" style="width:80px;height:40px;">
+        </a>
+		<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           Menu
           <i class="fa fa-bars"></i>
         </button>
@@ -53,7 +55,7 @@
     </nav>
 
     <!-- Intro Header -->
-    <header class="masthead">
+    <header class="masthead jankric" id="jankric-head">
       <div class="intro-body">
         <div class="container">
           <div class="row">
@@ -71,13 +73,14 @@
 	
 	<!-- Content Section -->
 	<section id="content" class="content-section text-center">
-		<div class="container">
-		<h5 id="work">Our Current Works :</h5>
+		<div id="work" class="container">
+		<br>
+		<h5>Our Current Works :</h5>
 			<div class="row">
 				<div class="card bg-black mx-3" style="width: 28.5%;" >
 				  <img class="card-img-top" src="img/ProjectLilyThumb1k.png" alt="Card image cap">
 				  <div class="card-body">
-					<a href="#" class="btn btn-card ">I AM NOT INNOCENT</a>
+					<a href="#" class="btn btn-card">I AM NOT INNOCENT</a>
 					<br>
 					<p class="card-text text-justify">A Third person action game that driven by a story. Player will be stepping in the shoes of Lily. Our Main Character.</p>
 				  </div>
