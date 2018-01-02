@@ -64,7 +64,7 @@
             <div class="col-lg-8 mx-auto">
               <h1 class="brand-heading">I Am Not Innocent</h1>
               <p class="intro-text">codename : #projectlily</p>
-			  <a href="https://youtu.be/-E_AuvpL-iI" class="btn btn-trailer">WATCH Trailer</a>
+			  <a href="https://youtu.be/-E_AuvpL-iI" target="_blank" class="btn btn-trailer">WATCH Trailer</a>
 			  <br>
               <a href="#work" class="btn btn-circle js-scroll-trigger">
                 <i class="fa fa-angle-double-down animated"></i>
