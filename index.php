@@ -137,10 +137,8 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto">
-            <h2>Contact Start Bootstrap</h2>
-            <p>Feel free to leave us a comment on the
-              <a href="http://startbootstrap.com/template-overviews/grayscale/">Grayscale template overview page</a>
-              on Start Bootstrap to give some feedback about this theme!</p>
+            <h2>Contact</h2>
+            <p>Thank you for visited this website. Feel free to comment and follow us on:</p>
             <ul class="list-inline banner-social-buttons">
               <li class="list-inline-item">
                 <a href="https://www.facebook.com/JankricRespawnGames/?ref=br_rs" class="btn btn-default btn-lg">
