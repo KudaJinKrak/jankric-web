@@ -9,8 +9,8 @@
     <meta name="author" content="">
 
     <title>I Am Not Innocent - Jankric Respawn</title>
-	<link rel="shortcut icon" href="../img/jankric-logo.png" type="image/x-icon">
-	<link rel="icon" href="../img/jankric-logo.png" type="image/x-icon">
+	<link rel="shortcut icon" href="../../img/jankric-logo.png" type="image/x-icon">
+	<link rel="icon" href="../../img/jankric-logo.png" type="image/x-icon">
 	
     <!-- Bootstrap core CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" rel="stylesheet">
@@ -21,9 +21,9 @@
     <link href='https://fonts.googleapis.com/css?family=Cabin:700' rel='stylesheet' type='text/css'>
 
     <!-- Custom styles for this template -->
-    <link href="../css/grayscale.min.css" rel="stylesheet">
-	<link href="../css/mycss.css" rel="stylesheet">
-	<link href="../css/blueimp-gallery.min.css" rel="stylesheet">
+    <link href="../../css/grayscale.min.css" rel="stylesheet">
+	<link href="../../css/mycss.css" rel="stylesheet">
+	<link href="../../css/blueimp-gallery.min.css" rel="stylesheet">
 
   </head>
 
@@ -32,8 +32,8 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
       <div class="container">
-		<a class="js-scroll-trigger" href="../">
-			<img src="../img/jrt.png" class="navbar-brand js-scroll-trigger" href="#page-top" alt="Jankric Respawn" style="width:80px;height:40px;">
+		<a class="js-scroll-trigger" href="../../">
+			<img src="../../img/jrt.png" class="navbar-brand js-scroll-trigger" href="#page-top" alt="Jankric Respawn" style="width:80px;height:40px;">
 		</a>
 		<a class="js-scroll-trigger" href="#jankric-head">
 			I Am Not Innocent
@@ -48,13 +48,13 @@
               <a class="nav-link js-scroll-trigger" href="#work">Overview</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="../#work">Project</a>
+              <a class="nav-link js-scroll-trigger" href="../../#work">Project</a>
             </li>
 			<li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="../#about">About</a>
+              <a class="nav-link js-scroll-trigger" href="../../#about">About</a>
             </li>
 			<li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="../#contact">Contact</a>
+              <a class="nav-link js-scroll-trigger" href="../../#contact">Contact</a>
             </li>
           </ul>
         </div>
@@ -68,7 +68,7 @@
           <div class="row">
             <div class="col-lg-8 mx-auto">
               <!--h1 class="brand-heading">I Am Not Innocent</h1-->
-              <img src="../img/ProjectLilyThumb1k.png" class="navbar-brand js-scroll-trigger" href="#page-top" alt="Jankric Respawn" style="width: 40%;">
+              <img src="../../img/ProjectLilyThumb1k.png" class="navbar-brand js-scroll-trigger" href="#page-top" alt="Jankric Respawn" style="width: 40%;">
 			  <p class="intro-text">
 				<q>I Am Not Innocent</q> <br>
 				<cite>codename : #projectlily</cite><br>
@@ -98,14 +98,14 @@
 			<br>
 			<p class="text-center">Latest Concept Art :</p>
 			<div id="links">
-				<a href="../img/i-am-not-innocent/2.jpg" title="Poster Lily" data-gallery >
-					<img src="../img/i-am-not-innocent/2.jpg" alt="Poster Lily" style="width: 65%;">
+				<a href="../../img/i-am-not-innocent/2.jpg" title="Poster Lily" data-gallery >
+					<img src="../../img/i-am-not-innocent/2.jpg" alt="Poster Lily" style="width: 65%;">
 				</a>
-				<a href="../img/i-am-not-innocent/3.jpg" title="Poster Lily" data-gallery >
-					<img src="../img/i-am-not-innocent/3.jpg" alt="Poster Lily" style="width: 34.57473564147%;">
+				<a href="../../img/i-am-not-innocent/3.jpg" title="Poster Lily" data-gallery >
+					<img src="../../img/i-am-not-innocent/3.jpg" alt="Poster Lily" style="width: 34.57473564147%;">
 				</a>
-				<a class="my-2" href="../img/i-am-not-innocent/1.png" title="Poster Lily" data-gallery >
-					<img src="../img/i-am-not-innocent/1.png" alt="Poster Lily" style="width: 100%;">
+				<a class="my-2" href="../../img/i-am-not-innocent/1.png" title="Poster Lily" data-gallery >
+					<img src="../../img/i-am-not-innocent/1.png" alt="Poster Lily" style="width: 100%;">
 				</a>
 			</div>
 		</div>
@@ -132,8 +132,8 @@
     <!--script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false"></script-->
 
     <!-- Custom scripts for this template -->
-    <script src="../js/grayscale.min.js"></script>
-	<script src="../js/blueimp-gallery.min.js"></script>
+    <script src="../../js/grayscale.min.js"></script>
+	<script src="../../js/blueimp-gallery.min.js"></script>
 
   </body>
 

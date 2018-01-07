@@ -80,7 +80,7 @@
 				<div class="card bg-black mx-3" style="width: 28.5%;" >
 				  <img class="card-img-top" src="img/ProjectLilyThumb1k.png" alt="Card image cap">
 				  <div class="card-body">
-					<a href="i-am-not-innocent" class="btn btn-card">I AM NOT INNOCENT</a>
+					<a href="project/i-am-not-innocent" class="btn btn-card">I AM NOT INNOCENT</a>
 					<br>
 					<p class="card-text text-justify">A Third person action game that driven by a story. Player will be stepping in the shoes of Lily. Our Main Character.</p>
 				  </div>
