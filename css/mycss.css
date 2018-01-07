@@ -7,6 +7,7 @@
 	margin: 15px;
 	background-color: #000000;
 	border-color: #FFFFFF;
+	color: #FFFFFF;
 }
 
 .btn-card:hover, .btn-card:focus {
@@ -30,6 +31,8 @@
 	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/Footer_Together.jpg") no-repeat;
 	background-size: cover;
 }
-
+.jankric-heading{
+	text-transform: capitalize;
+}
 .jankric{ 
  }

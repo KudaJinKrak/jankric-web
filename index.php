@@ -19,6 +19,7 @@
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Cabin:700' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="css/grayscale.min.css" rel="stylesheet">
@@ -60,7 +61,7 @@
         <div class="container">
           <div class="row">
             <div class="col-lg-8 mx-auto">
-              <h1 class="brand-heading">Jankric Respawn</h1>
+              <h1 class="brand-heading jankric-heading">Jankric Respawn</h1>
               <p class="intro-text">we do great stuffs ></p>
               <a href="#work" class="btn btn-circle js-scroll-trigger">
                 <i class="fa fa-angle-double-down animated"></i>
@@ -96,7 +97,7 @@
 				<div class="card bg-black mx-3" style="width: 28.5%;" >
 				  <img class="card-img-top" src="img/ThePlant1k.jpg" alt="Card image cap">
 				  <div class="card-body">
-					<a href="#" class="btn btn-card">THE PLANT</a>
+					<a href="#" class="btn btn-card" >THE PLANT</a>
 					<br>
 					<p class="card-text text-justify">A Short Movie set In 2070, Where Rare Plants Experts found a huge big tree that has a large amount of renewable energy</p>
 				  </div>
@@ -142,21 +143,27 @@
               on Start Bootstrap to give some feedback about this theme!</p>
             <ul class="list-inline banner-social-buttons">
               <li class="list-inline-item">
-                <a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg">
+                <a href="https://www.facebook.com/JankricRespawnGames/?ref=br_rs" class="btn btn-default btn-lg">
+                  <i class="fa fa-facebook fa-fw"></i>
+                  <span class="network-name">Facebook</span>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="https://www.instagram.com/jankricrespawngames/" class="btn btn-default btn-lg">
+                  <i class="fa fa-instagram fa-fw"></i>
+                  <span class="network-name">Instagram</span>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="https://www.youtube.com/channel/UCMUbH4FBKCQAHzxEk77cgBw" class="btn btn-default btn-lg">
+                  <i class="fa fa-youtube fa-fw"></i>
+                  <span class="network-name">Youtube</span>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="https://twitter.com/jankricrespawn" class="btn btn-default btn-lg">
                   <i class="fa fa-twitter fa-fw"></i>
                   <span class="network-name">Twitter</span>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="https://github.com/BlackrockDigital/startbootstrap" class="btn btn-default btn-lg">
-                  <i class="fa fa-github fa-fw"></i>
-                  <span class="network-name">Github</span>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="https://plus.google.com/+Startbootstrap/posts" class="btn btn-default btn-lg">
-                  <i class="fa fa-google-plus fa-fw"></i>
-                  <span class="network-name">Google+</span>
                 </a>
               </li>
             </ul>

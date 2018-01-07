@@ -19,6 +19,7 @@
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Cabin:700' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="../../css/grayscale.min.css" rel="stylesheet">
@@ -99,10 +100,10 @@
 			<p class="text-center">Latest Concept Art :</p>
 			<div id="links">
 				<a href="../../img/i-am-not-innocent/2.jpg" title="Poster Lily" data-gallery >
-					<img src="../../img/i-am-not-innocent/2.jpg" alt="Poster Lily" style="width: 65%;">
+					<img src="../../img/i-am-not-innocent/2.jpg" alt="Poster Lily" style="width: 64%;">
 				</a>
 				<a href="../../img/i-am-not-innocent/3.jpg" title="Poster Lily" data-gallery >
-					<img src="../../img/i-am-not-innocent/3.jpg" alt="Poster Lily" style="width: 34.57473564147%;">
+					<img src="../../img/i-am-not-innocent/3.jpg" alt="Poster Lily" style="width: 34.3%;">
 				</a>
 				<a class="my-2" href="../../img/i-am-not-innocent/1.png" title="Poster Lily" data-gallery >
 					<img src="../../img/i-am-not-innocent/1.png" alt="Poster Lily" style="width: 100%;">
