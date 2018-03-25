@@ -56,7 +56,7 @@
     </nav>
 
     <!-- Intro Header -->
-    <header class="masthead jankric" id="jankric-head">
+    <header class="jankric-cover" id="jankric-head">
       <div class="intro-body">
         <div class="container">
           <div class="row">
@@ -89,7 +89,7 @@
 				<div class="card bg-black mx-3" style="width: 28.5%;" >
 				  <img class="card-img-top" src="img/Iwwu1k.png" alt="Card image cap">
 				  <div class="card-body">
-					<a href="#" class="btn btn-card">I WANNA WAKE UP</a>
+					<a href="project/i-wanna-wake-up" class="btn btn-card">I WANNA WAKE UP</a>
 					<br>
 					<p class="card-text text-justify">A first person puzzle game that makes you think and dig the enviroment about what's really happened.</p>
 				  </div>

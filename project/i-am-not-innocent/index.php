@@ -63,7 +63,7 @@
     </nav>
 
     <!-- Intro Header -->
-    <header class="masthead jankric" id="jankric-head">
+    <header class="jankric-cover" id="jankric-head">
       <div class="intro-body">
         <div class="container">
           <div class="row">
@@ -96,6 +96,8 @@
 				Premise :<br>
 				Lily Just killed her parent unintentionally. By freeze them in the Ice, and shatter them. By that time she realized her natural power, Ice Bending. Lily runs from that accident while chased by the police and her family. Lily met unknown peoplethat help her and wanting her so much. Turns out some of that people are related to her original parents. and the parents she killed are not her true parents. And lily Continues to search for answers about her true parents
 			</p>
+      <h3 class="text-center"><a href="https://gamejolt.com/games/lily-arena/214461">[Download]</a></h3>
+      <p class="text-center">To download our demo</p>
 			<br>
 			<p class="text-center">Latest Concept Art :</p>
 			<div id="links">
