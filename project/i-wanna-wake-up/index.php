@@ -87,7 +87,6 @@
 	<!-- Content Section -->
 	<section id="content" class="content-section">
 		<div id="work" class="container mx-auto" style="width: 75%;" >
-            <h2 class="text-center">[ Trailer ]</h2>
 			<div class="text-center"><iframe width="854" height="480" src="https://www.youtube.com/embed/khNXf8QPkXQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div><br>
             
             <h2 class="text-center">[ I Wanna Wake Up ]</h2>
