@@ -162,8 +162,8 @@
                 </a>
 
             </div></div>
-			<p>Here, you just had an accident, your body gone coma, and stuck in the subconscious world. you must find the way out trough the puzzles made from memories and problems as you sorting it out and get back, get out, and wake up from this unconscious world.</p>
-			<h3 class="text-center"><a href="https://gamejolt.com/games/i-wanna-wake-up/123196">[Download]</a></h3>
+			      <p>Here, you just had an accident, your body gone coma, and stuck in the subconscious world. you must find the way out trough the puzzles made from memories and problems as you sorting it out and get back, get out, and wake up from this unconscious world.</p>
+			      <div class="text-center"><a class="btn btn-card" href="https://gamejolt.com/games/i-wanna-wake-up/123196">Download</a></div>
             <br>
             <p class="text-center">Our developer-narrated gameplay</p>
             <div class="text-center"><iframe width="854" height="480" src="https://www.youtube.com/embed/I6aZ5V8QCiU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
@@ -174,6 +174,10 @@
     <footer>
       <div class="container text-center">
         <p>Copyright &copy; Jankric Respawn 2018</p>
+        <a class="fa fa-facebook fa-fw" href="https://www.facebook.com/JankricRespawnGames/?ref=br_rs" ></a>
+        <a class="fa fa-instagram fa-fw" href="https://www.instagram.com/jankricrespawngames/" ></a>
+        <a class="fa fa-youtube fa-fw" href="https://www.youtube.com/channel/UCMUbH4FBKCQAHzxEk77cgBw" ></a>
+        <a class="fa fa-twitter fa-fw" href="https://twitter.com/jankricrespawn" ></a>
       </div>
     </footer>
 

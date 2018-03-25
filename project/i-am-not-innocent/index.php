@@ -96,7 +96,7 @@
 				Premise :<br>
 				Lily Just killed her parent unintentionally. By freeze them in the Ice, and shatter them. By that time she realized her natural power, Ice Bending. Lily runs from that accident while chased by the police and her family. Lily met unknown peoplethat help her and wanting her so much. Turns out some of that people are related to her original parents. and the parents she killed are not her true parents. And lily Continues to search for answers about her true parents
 			</p>
-      <h3 class="text-center"><a href="https://gamejolt.com/games/lily-arena/214461">[Download]</a></h3>
+      <div class="text-center"><a class="btn btn-card" href="https://gamejolt.com/games/lily-arena/214461">Download</a></div>
       <p class="text-center">To download our demo</p>
 			<br>
 			<p class="text-center">Latest Concept Art :</p>
@@ -118,6 +118,10 @@
     <footer>
       <div class="container text-center">
         <p>Copyright &copy; Jankric Respawn 2018</p>
+        <a class="fa fa-facebook fa-fw" href="https://www.facebook.com/JankricRespawnGames/?ref=br_rs" ></a>
+        <a class="fa fa-instagram fa-fw" href="https://www.instagram.com/jankricrespawngames/" ></a>
+        <a class="fa fa-youtube fa-fw" href="https://www.youtube.com/channel/UCMUbH4FBKCQAHzxEk77cgBw" ></a>
+        <a class="fa fa-twitter fa-fw" href="https://twitter.com/jankricrespawn" ></a>
       </div>
     </footer>
 
