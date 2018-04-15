@@ -97,10 +97,11 @@
 				<div class="card bg-black mx-3" style="width: 28.5%;" >
 				  <img class="card-img-top" src="img/ThePlant1k.jpg" alt="Card image cap">
 				  <div class="card-body">
-					<a href="#" class="btn btn-card" >THE PLANT</a>
+					<a href="#" class="btn btn-card disabled" >THE PLANT</a>
 					<br>
-					<p class="card-text text-justify">A Short Movie set In 2070, Where Rare Plants Experts found a huge big tree that has a large amount of renewable energy</p>
-				  </div>
+					<!-- <p class="card-text text-justify">A Short Movie set In 2070, Where Rare Plants Experts found a huge big tree that has a large amount of renewable energy</p> -->
+				  <p class="card-text text-justify">Coming Soon......</p>
+          </div>
 				</div>
 			</div>
 		</div>
