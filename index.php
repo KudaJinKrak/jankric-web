@@ -78,15 +78,15 @@
 		<br>
 		<h5>Our Current Works :</h5>
 			<div class="row">
-				<div class="card bg-black mx-3" style="width: 28.5%;" >
+				<div class="card bg-black col-xs-10 col-sm-10 col-md-4">
 				  <img class="card-img-top" src="img/ProjectLilyThumb1k.png" alt="Card image cap">
 				  <div class="card-body">
-					<a href="project/i-am-not-innocent" class="btn btn-card">I AM NOT INNOCENT</a>
+					<a href="project/i-am-not-innocent" class="btn btn-card">I'M NOT INNOCENT</a>
 					<br>
 					<p class="card-text text-justify">A Third person action game that driven by a story. Player will be stepping in the shoes of Lily. Our Main Character.</p>
 				  </div>
 				</div>
-				<div class="card bg-black mx-3" style="width: 28.5%;" >
+				<div class="card bg-black col-xs-10 col-sm-10 col-md-4">
 				  <img class="card-img-top" src="img/Iwwu1k.png" alt="Card image cap">
 				  <div class="card-body">
 					<a href="project/i-wanna-wake-up" class="btn btn-card">I WANNA WAKE UP</a>
@@ -94,7 +94,7 @@
 					<p class="card-text text-justify">A first person puzzle game that makes you think and dig the enviroment about what's really happened.</p>
 				  </div>
 				</div>
-				<div class="card bg-black mx-3" style="width: 28.5%;" >
+				<div class="card bg-black col-sx-10 col-sm-10 col-md-4">
 				  <img class="card-img-top" src="img/ThePlant1k.jpg" alt="Card image cap">
 				  <div class="card-body">
 					<a href="#" class="btn btn-card disabled" >THE PLANT</a>
