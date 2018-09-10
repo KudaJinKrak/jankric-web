@@ -5,8 +5,9 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Video game developer">
+    <meta name="keywords" content="game, game lokal, unreal, ue4, video game">
+    <meta name="author" content="jankric">
 
     <title>Jankric Respawn</title>
 	<link rel="shortcut icon" href="img/jankric-logo.png" type="image/x-icon">
