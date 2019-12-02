@@ -89,7 +89,7 @@
 	<section id="content" class="content-section">
 		<div id="work" class="container mx-auto" style="width: 75%;" >
 			
-			<div class="text-center"><iframe width="854" height="480" src="https://www.youtube.com/embed/-E_AuvpL-iI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div><br>
+			<div class="text-center embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-E_AuvpL-iI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div><br>
 			
 			<h2 class="text-center">[ Work In Progress ]</h2>
 			<p>I'm not Innocent is a Third person action game that driven by a story . Player will be stepping in the shoes of Lily. Our Main Character.</p>

@@ -88,7 +88,7 @@
 	<!-- Content Section -->
 	<section id="content" class="content-section">
 		<div id="work" class="container mx-auto" style="width: 75%;" >
-			<div class="text-center"><iframe width="854" height="480" src="https://www.youtube.com/embed/khNXf8QPkXQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div><br>
+			<div class="text-center embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/khNXf8QPkXQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div><br>
             
             <h2 class="text-center">[ I Wanna Wake Up ]</h2>
             <p>A first person puzzle game that makes you think and dig the enviroment about what's really happened.</p>
@@ -166,7 +166,7 @@
 			      <div class="text-center"><a class="btn btn-card" href="https://gamejolt.com/games/i-wanna-wake-up/123196">Download</a></div>
             <br>
             <p class="text-center">Our developer-narrated gameplay</p>
-            <div class="text-center"><iframe width="854" height="480" src="https://www.youtube.com/embed/I6aZ5V8QCiU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+            <div class="text-center embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/I6aZ5V8QCiU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 		</div>
 	</section>
   
