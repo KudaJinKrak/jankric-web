@@ -8,3 +8,4 @@ Disallow: .gitignore
 Disallow: travis.yml
 Disallow: glupfile.js
 Disallow: /img/
+Allow: /img/i-am-not-innocent/*.png
