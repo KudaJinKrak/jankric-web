@@ -35,6 +35,10 @@
 	text-transform: capitalize;
 }
 
+.img-fluid {
+	width: 35%;
+}
+
 .jankric-cover {
 	display: table;
 	width: 100%;
