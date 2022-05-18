@@ -4,10 +4,11 @@ class Footer extends HTMLElement {
   }
 
   connectedCallback() {
+    const year = new Date().getFullYear();
     this.innerHTML = `
     <footer>
       <div class="container text-center">
-        <p>Copyright &copy; Jankric Respawn 2018</p>
+        <p>Copyright &copy; Jankric Respawn ${year}</p>
         <a
           class="fa fa-facebook fa-fw text-decoration-none"
           href="https://www.facebook.com/JankricRespawnGames/?ref=br_rs"
